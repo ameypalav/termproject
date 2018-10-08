@@ -17,9 +17,9 @@
 
 
 
-<input type="file" name="file" id="uploadImage"/>
-<input type="text" name="details" />
- <input type="submit" id="upload" />
+Enter Profile picture <input type="file" name="file" id="uploadImage"/>
+   Enter your details: <input type="text" name="details" value="${u6.details}" />
+ <input type="submit" id="upload"  />
 </form  >
 
 
